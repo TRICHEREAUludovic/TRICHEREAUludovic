@@ -29,7 +29,7 @@ Currently, I don't have any public repositories showcased here, but I'm working 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TRICHEREAUludovic&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
+![TRICHEREAUludovic's Stats](https://github-readme-stats.vercel.app/api?username=TRICHEREAUludovic&theme=radical&show_icons=true&hide_border=true&count_private=true) 
 
 ![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TRICHEREAUludovic&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
