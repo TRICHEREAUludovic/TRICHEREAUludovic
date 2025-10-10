@@ -31,7 +31,7 @@ Currently, I don't have any public repositories showcased here, but I'm working 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TRICHEREAUludovic&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
 
-![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TRICHEREAUludovic&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TRICHEREAUludovic&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Recent Activity
 
