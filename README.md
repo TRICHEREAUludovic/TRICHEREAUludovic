@@ -13,7 +13,7 @@ After 23 years in the automotive industry, I chose to retrain in web development
 
 ## Skills & Technologies  
 
-<p style="text-align: center;">
+<p align="center">
   <img src="./img/css-svgrepo-com.svg" alt="logo css" height="40">
   <img src="./img/html-5-svgrepo-com.svg" alt="logo html5" height="40">
   <img src="./img/js-svgrepo-com.svg" alt="logo js" height="40">
