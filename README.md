@@ -1,6 +1,7 @@
 #
 [anglais](README.md) | [francais](READMEFR.md)
-Badge](https://img.shields.io/badge/Lang-fr-blue?link=READMEFR.md) | Badge](https://img.shields.io/badge/Lang-en-green?link=README.md)
+
+![Static Badge](https://img.shields.io/badge/Lang-fr-blue?link=READMEFR.md) | ![Static Badge](https://img.shields.io/badge/Lang-en-green?link=README.md)
 ## Hi there! 👋
 
 I am **Ludovic**, a French web and mobile web developer. I am always eager to learn and collaborate with others to create impactful solutions.
