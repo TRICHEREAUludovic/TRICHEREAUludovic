@@ -48,3 +48,6 @@ I currently don't have any recorded activity on GitHub, but I'm looking forward 
 ##
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TRICHEREAUludovic.TRICHEREAUludovic)
+
+
+https://github-readme-streak-stats.herokuapp.com/?user=TRICHEREAUludovic&theme=radical
