@@ -1,8 +1,7 @@
 #
 [anglais](README.md) | [francais](READMEFR.md)
 
-![Static Badge](https://img.shields.io/badge/Lang-fr-blue?)(READMEFR.md) | ![Static Badge](https://img.shields.io/badge/Lang-en-green?)(README.md)
-## Hi there! 👋<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Hi there! 👋
 
 I am **Ludovic**, a French web and mobile web developer. I am always eager to learn and collaborate with others to create impactful solutions.
 
