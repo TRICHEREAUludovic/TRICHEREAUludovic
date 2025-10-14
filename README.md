@@ -51,3 +51,5 @@ I currently don't have any recorded activity on GitHub, but I'm looking forward 
 
 
 https://github-readme-streak-stats.herokuapp.com/?user=TRICHEREAUludovic&theme=radical
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=TRICHEREAUludovic
