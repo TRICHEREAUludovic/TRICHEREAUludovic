@@ -1,6 +1,8 @@
 #
 [anglais](README.md) | [francais](READMEFR.md)
 
+[![en](https://img.shields.io/badge/Lang-en-green)](README.md)
+
 ## Salut! 👋
 
 Je suis **Ludovic**, développeur web et mobile français. Je suis toujours avide d'apprendre et de collaborer avec les autres pour créer des solutions efficaces.
