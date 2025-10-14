@@ -1,5 +1,4 @@
 #
-[anglais](README.md) | [francais](READMEFR.md)
 
 [![fr](https://img.shields.io/badge/Lang-fr-blue)](READMEFR.md)
 
