@@ -6,7 +6,7 @@
 
 Je suis **Ludovic**, développeur web et mobile français. Je suis toujours avide d'apprendre et de collaborer avec les autres pour créer des solutions efficaces.
 
-## A propos de moi
+## A propos de moi  <img src="./img/243078655-47eb2734-addb-46da-b4dd-5e1616cd3853.gif" alt="emoji" height="30">  
 
 Après 23 ans dans l'industrie automobile, j'ai choisi de me reconvertir en développement web pour donner une nouvelle orientation à ma carrière. Formé chez O'clock, j'ai acquis de solides compétences en HTML, CSS, JavaScript, Node.js et Git. Curieux, rigoureux et orienté solutions.
 
@@ -14,7 +14,7 @@ Après 23 ans dans l'industrie automobile, j'ai choisi de me reconvertir en dév
 
 ## Compétences et technologies 
 
-<p style="text-align: center;">
+<p align="center">
   <img src="./img/css-svgrepo-com.svg" alt="logo css" height="40">
   <img src="./img/html-5-svgrepo-com.svg" alt="logo html5" height="40">
   <img src="./img/js-svgrepo-com.svg" alt="logo js" height="40">
@@ -46,4 +46,10 @@ Je n'ai actuellement aucune activité enregistrée sur GitHub, mais j'ai hâte d
 <a href="https://discord.com/" target="blank"><img align="center" src="./img/discord-v2-svgrepo-com.svg" alt="logo discord" height="40"  /></a>
 </p>
 
-##
+##  
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TRICHEREAUludovic.TRICHEREAUludovic)
+
+<p align="center"> 
+<img src="./img/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="emoji" height="30"> 
+</p>
