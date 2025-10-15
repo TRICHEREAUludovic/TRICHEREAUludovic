@@ -6,7 +6,7 @@
 
 I am **Ludovic**, a French web and mobile web developer. I am always eager to learn and collaborate with others to create impactful solutions.
 
-## About Me
+## About Me  <img src="./img/243078655-47eb2734-addb-46da-b4dd-5e1616cd3853.gif" alt="emoji" height="30">  
 
 After 23 years in the automotive industry, I chose to retrain in web development to give a new direction to my career. Trained at O’clock, I acquired solid skills in HTML, CSS, JavaScript, Node.js, and Git. Curious, rigorous, and solution-oriented.  
 
@@ -50,4 +50,6 @@ I currently don't have any recorded activity on GitHub, but I'm looking forward 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TRICHEREAUludovic.TRICHEREAUludovic)
 
-
+<p align="center"> 
+<img src="./img/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="emoji" height="30"> 
+</p>
