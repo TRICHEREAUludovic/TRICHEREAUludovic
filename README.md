@@ -41,19 +41,16 @@ I currently don't have any recorded activity on GitHub, but I'm looking forward 
 ## Connect with Me
 
 <p align="center"> 
-<a href="https://linkedin.com/" target="blank"><img align="center" src="./img/linkedin-1-svgrepo-com.svg" alt="logo linkedin" height="40"  /></a>
+<a href="https://linkedin.com/" target="blank"><img align="center" src="./img/linkedin-1-svgrepo-com.svg" alt="logo linkedin" height="45"  /></a>
 <a href="https://facebook.com/" target="blank"><img align="center" src="./img/facebook-3-logo-svgrepo-com.svg" alt="logo facebook" height="40"  /></a>
 <a href="https://discord.com/" target="blank"><img align="center" src="./img/discord-v2-svgrepo-com.svg" alt="logo discord" height="40"  /></a>
 </p>
 
 ##
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TRICHEREAUludovic)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=github.com/TRICHEREAUludovic)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TRICHEREAUludovic.TRICHEREAUludovic)
+![GitHub followers](https://img.shields.io/github/followers/TRICHEREAUludovic?style=flat&label=followers&color=green)
 ![GitHub User's stars](https://img.shields.io/github/stars/TRICHEREAUludovic?style=flat&label=stars&color=yellow)
-![GitHub followers](https://img.shields.io/github/followers/TRICHEREAUludovic?style=plastic&label=followers&color=green)
-
 
 <p align="center"> 
 <img src="./img/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="emoji" height="30"> 
