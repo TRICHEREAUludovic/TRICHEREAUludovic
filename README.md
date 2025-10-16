@@ -49,6 +49,9 @@ I currently don't have any recorded activity on GitHub, but I'm looking forward 
 ##
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TRICHEREAUludovic.TRICHEREAUludovic)
+![GitHub watchers](https://img.shields.io/github/watchers/TRICHEREAUludovic/TRICHEREAUludovic?style=plastic&label=visitors&color=yellow)
+![GitHub followers](https://img.shields.io/github/followers/TRICHEREAUludovic?style=plastic&label=followers&color=green)
+![GitHub watch ocoffee](https://img.shields.io/github/watchers/TRICHEREAUludovic/ocoffee?style=plastic&label=ocoffee&color=blue)
 
 <p align="center"> 
 <img src="./img/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="emoji" height="30"> 
