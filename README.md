@@ -10,7 +10,7 @@ I am **Ludovic**, a French web and mobile web developer. I am always eager to le
 
 After 23 years in the automotive industry, I chose to retrain in web development to give a new direction to my career. Trained at O’clock, I acquired solid skills in HTML, CSS, JavaScript, Node.js, and Git. Curious, rigorous, and solution-oriented.  
 
-[Connect me](#connect-with-me)  
+[Contact me](#Contact-Me)  
 
 ## Skills & Technologies  
 
