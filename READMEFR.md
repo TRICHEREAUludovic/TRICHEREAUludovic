@@ -26,7 +26,9 @@ Après 23 ans dans l'industrie automobile, j'ai choisi de me reconvertir en dév
 
 ## Meilleurs projets
 
-Je n'ai actuellement aucun dépôt public présenté ici, mais je travaille à la constitution de mon portfolio ! Restez connectés pour découvrir de nouveaux projets passionnants.
+|   O'coffee      |    O'chat     |
+| ------ | ------|
+|<a href="https://github.com/TRICHEREAUludovic/ocoffee" target="blank"><img align="center" src="./img/ocoffee.png" alt="repo O'coffee" height="70"  /></a>  | <a href="https://github.com/TRICHEREAUludovic/ochat" target="blank"><img align="center" src="./img/ochat.png" alt="repo O'chat" height="70"  /></a> |
 
 ## Statistiques GitHub
 
