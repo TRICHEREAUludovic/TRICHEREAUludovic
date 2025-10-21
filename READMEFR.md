@@ -10,7 +10,7 @@ Je suis **Ludovic**, développeur web et mobile français. Je suis toujours avid
 
 Après 23 ans dans l'industrie automobile, j'ai choisi de me reconvertir en développement web pour donner une nouvelle orientation à ma carrière. Formé chez O'clock, j'ai acquis de solides compétences en HTML, CSS, JavaScript, Node.js et Git. Curieux, rigoureux et orienté solutions.
 
-[connectez vous avec moi](#connectez-vous-avec-moi)  
+[contactez moi](#Contactez-moi)  
 
 ## Compétences et technologies 
 
@@ -38,7 +38,7 @@ Je n'ai actuellement aucun dépôt public présenté ici, mais je travaille à l
 
 Je n'ai actuellement aucune activité enregistrée sur GitHub, mais j'ai hâte de m'engager davantage avec la communauté !
 
-## Connectez-vous avec moi
+## Contactez moi
 
 <p align="center"> 
 <a href="https://linkedin.com/" target="blank"><img align="center" src="./img/linkedin-1-svgrepo-com.svg" alt="logo linkedin" height="45"  /></a>
@@ -46,7 +46,7 @@ Je n'ai actuellement aucune activité enregistrée sur GitHub, mais j'ai hâte d
 <a href="https://discord.com/" target="blank"><img align="center" src="./img/discord-v2-svgrepo-com.svg" alt="logo discord" height="40"  /></a>
 </p>
 
-##
+---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=github.com/TRICHEREAUludovic)
 ![GitHub followers](https://img.shields.io/github/followers/TRICHEREAUludovic?style=flat&label=followers&color=green)
