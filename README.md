@@ -38,7 +38,7 @@ Currently, I don't have any public repositories showcased here, but I'm working 
 
 I currently don't have any recorded activity on GitHub, but I'm looking forward to engaging more with the community!
 
-## Connect with Me
+## Contact Me
 
 <p align="center"> 
 <a href="https://linkedin.com/" target="blank"><img align="center" src="./img/linkedin-1-svgrepo-com.svg" alt="logo linkedin" height="45"  /></a>
@@ -46,11 +46,12 @@ I currently don't have any recorded activity on GitHub, but I'm looking forward 
 <a href="https://discord.com/" target="blank"><img align="center" src="./img/discord-v2-svgrepo-com.svg" alt="logo discord" height="40"  /></a>
 </p>
 
-##
+---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=github.com/TRICHEREAUludovic)
 ![GitHub followers](https://img.shields.io/github/followers/TRICHEREAUludovic?style=flat&label=followers&color=green)
 ![GitHub User's stars](https://img.shields.io/github/stars/TRICHEREAUludovic?style=flat&label=stars&color=yellow)
+
 
 <p align="center"> 
 <img src="./img/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="emoji" height="30"> 
