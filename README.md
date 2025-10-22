@@ -26,11 +26,10 @@ After 23 years in the automotive industry, I chose to retrain in web development
 
 ## Top Projects
 
-|   O'coffee      |    O'chat     |
-| ------ | ------|
-|<a href="https://github.com/TRICHEREAUludovic/ocoffee" target="blank"><img align="center" src="./img/ocoffee.png" alt="repo O'coffee" height="70"  /></a>  | <a href="https://github.com/TRICHEREAUludovic/ochat" target="blank"><img align="center" src="./img/ochat.png" alt="repo O'chat" height="70"  /></a> |
-
-
+| link  | repo name | description |
+| ------ | ------| ------|
+|<a href="https://github.com/TRICHEREAUludovic/ocoffee" target="blank"><img align="center" src="./img/ocoffee.png" alt="repo O'coffee" height="70"  /></a>  | O'coffee | desc |
+|<a href="https://github.com/TRICHEREAUludovic/ochat" target="blank"><img align="center" src="./img/ochat.png" alt="repo O'chat" height="70"  /></a> | O'chat | desc |
 
 ## GitHub Stats
 
