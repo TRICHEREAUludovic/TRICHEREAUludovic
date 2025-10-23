@@ -28,8 +28,8 @@ After 23 years in the automotive industry, I chose to retrain in web development
 
 | link  | repo name | description |
 | ------ | ------| ------|
-|<a href="https://github.com/TRICHEREAUludovic/ocoffee" target="blank"><img align="center" src="./img/ocoffee.png" alt="repo O'coffee" height="70"  /></a>  | O'coffee | desc |
-|<a href="https://github.com/TRICHEREAUludovic/ochat" target="blank"><img align="center" src="./img/ochat.png" alt="repo O'chat" height="70"  /></a> | O'chat | desc |
+|<a href="https://github.com/TRICHEREAUludovic/ocoffee" target="blank"><img align="center" src="./img/ocoffee.png" alt="repo O'coffee" height="70"  /></a>  | O'coffee | This is a catalog of coffees for informational purposes only, not an e-commerce website, with a PostgreSQL database. |
+|<a href="https://github.com/TRICHEREAUludovic/ochat" target="blank"><img align="center" src="./img/ochat.png" alt="repo O'chat" height="70"  /></a> | O'chat | This project allows the application of front-end developer skills by creating a user interface that enables interaction with the Mistral LLM API. |
 
 ## GitHub Stats
 
