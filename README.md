@@ -1,6 +1,6 @@
 #
 
-[![en](https://img.shields.io/badge/Lang-en-green)](README.md)
+
 
 ## Salut! 👋
 
