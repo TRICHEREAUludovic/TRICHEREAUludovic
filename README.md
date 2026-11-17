@@ -30,8 +30,8 @@ Après 23 ans dans l'industrie automobile, j'ai choisi de me reconvertir en dév
 
 | link  | repo name | description |
 | ------ | ------| ------|
-|portefolio V2 en cours | portefolio |  passage a la V2 de mon portefolio [Ma page perso](https://trichereauludovic.github.io/) |
-|  XXXX  | repo privé |  Création d'un site e-commerce professionnel pour une cliente. |
+|<a href="https://github.com/TRICHEREAUludovic/TRICHEREAUludovic.github.io" target="blank"><img align="center" src="./img/site-v2.webp" alt="repo porte-folio" height="70"  /></a>  | portefolio |  passage a la V2 de mon portefolio [Ma page perso](https://trichereauludovic.github.io/) |
+|<img align="center" src="./img/lespresentsdangel.webp" alt="repo prive" height="70"  />  | repo privé |  Création d'un site e-commerce professionnel pour une cliente. |
 |<a href="https://github.com/TRICHEREAUludovic/TRICHEREAUludovic.github.io" target="blank"><img align="center" src="./img/landing-page.jpg" alt="repo porte-folio" height="70"  /></a>  | portefolio |  Une simple landing page personnelle en html5/ css3 et javascript. [Ma page perso passé en v2](https://trichereauludovic.github.io/) |
 |<a href="https://github.com/TRICHEREAUludovic/Cinedelices" target="blank"><img align="center" src="./img/cinedelice.jpg" alt="repo Cinedelices" height="70"  /></a> | Cinedelices | Projet de fin de formation réaliser en groupe. Ce projet avait pour sujet: les recettes vue dans les films et les séries cultes. Nous l'avons créé de bout en bout. le site a été réaliser en monolythique ( nodeJs, express, ejs, javascript, postgresQL, jwt et argon2 pour la sécurisation, multer et sharp pour l'upload et le traitement des images entre autre)  |
 |<a href="https://github.com/TRICHEREAUludovic/ocoffee" target="blank"><img align="center" src="./img/ocoffee.png" alt="repo O'coffee" height="70"  /></a>  | O'coffee |  il s’agit d’un catalogue de cafées à des fins informatives uniquement, mais pas d’un site e-commerce, avec une base de données postgresql. |
